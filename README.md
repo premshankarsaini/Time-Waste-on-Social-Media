@@ -1,9 +1,9 @@
 # Time-Waste-on-Social-Media
 This is Python Projects on "Time Waste on Social-Media" by People........
 
-# Key Components of the Project:
+## Key Components of the Project:
 
-Data Collection and Preparation:
+### Data Collection and Preparation:
 
 The project begins by collecting data on users' social media usage. This data likely includes information on:
 
@@ -12,7 +12,7 @@ Self-control measures, such as users' ability to resist checking notifications o
 Demographics like age and gender to allow for comparative analysis.
 The data is cleaned and preprocessed for analysis, ensuring consistency and accuracy across different variables.
 
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 
 Initial exploration of the dataset is performed to understand basic patterns and trends.
 Key EDA steps include:
@@ -20,7 +20,7 @@ Key EDA steps include:
 Summarizing the data to provide an overview of central tendencies (mean, median) and distributions (e.g., hours spent on social media).
 Visualizing correlations between variables like gender, age, and self-control levels, to uncover relationships.
 
-Data Visualization:-
+### Data Visualization:-
 
 The project makes extensive use of visualization libraries such as Matplotlib and Seaborn to create meaningful charts and graphs. These visualizations include:-
 
