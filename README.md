@@ -1,7 +1,7 @@
 # Time-Waste-on-Social-Media
 This is Python Projects on "Time Waste on Social-Media" by People........
 
-Key Components of the Project:
+# Key Components of the Project:
 
 Data Collection and Preparation:
 
